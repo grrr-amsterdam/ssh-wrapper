@@ -5,7 +5,7 @@
   },
   "name": "ssh-wrapper",
   "description": "[![Greenkeeper badge](https://badges.greenkeeper.io/grrr-amsterdam/ssh-wrapper.svg)](https://greenkeeper.io/)",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "wrapper.js",
   "devDependencies": {},
   "scripts": {
