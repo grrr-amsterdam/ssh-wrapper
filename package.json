@@ -2,5 +2,27 @@
   "dependencies": {
     "fs": "^0.0.1-security",
     "ssh2": "^0.5.4"
-  }
+  },
+  "name": "ssh-wrapper",
+  "description": "[![Greenkeeper badge](https://badges.greenkeeper.io/grrr-amsterdam/ssh-wrapper.svg)](https://greenkeeper.io/)",
+  "version": "1.0.0",
+  "main": "wrapper.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/grrr-amsterdam/ssh-wrapper.git"
+  },
+  "keywords": [
+    "ssh",
+    "remote"
+  ],
+  "author": "David Spreekmeester <david@grrr.nl>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/grrr-amsterdam/ssh-wrapper/issues"
+  },
+  "homepage": "https://github.com/grrr-amsterdam/ssh-wrapper#readme"
 }
