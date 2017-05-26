@@ -14,4 +14,4 @@ Expects a config object:
 }
 ```
 
-Returns a promise containing the stdout output, or stderr in case of an error.
+Returns a Promise containing the stdout output, or stderr in case of an error.
