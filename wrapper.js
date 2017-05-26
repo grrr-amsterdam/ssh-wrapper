@@ -31,7 +31,7 @@ var wrapper = module.exports = {
                     }).on('data', function(data) {
                         resolve(data.toString('utf8'))
                     }).stderr.on('data', function(data) {
-                        reject(data)
+                        reject(data.toString('utf8'))
                     });
                 });
             }).connect({
