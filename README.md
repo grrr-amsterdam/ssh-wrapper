@@ -1,4 +1,6 @@
 # SSH Wrapper
+Executes a shell command over an SSH connection.
+
 [![Greenkeeper badge](https://badges.greenkeeper.io/grrr-amsterdam/ssh-wrapper.svg)](https://greenkeeper.io/)
 
 
