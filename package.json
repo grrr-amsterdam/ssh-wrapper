@@ -2,7 +2,7 @@
   "dependencies": {
     "fs": "^0.0.2",
     "greenkeeper-lockfile": "^1.6.0",
-    "ssh2": "^0.5.4"
+    "ssh2": "^0.8.8"
   },
   "name": "ssh-wrapper",
   "description": "[![Greenkeeper badge](https://badges.greenkeeper.io/grrr-amsterdam/ssh-wrapper.svg)](https://greenkeeper.io/)",
